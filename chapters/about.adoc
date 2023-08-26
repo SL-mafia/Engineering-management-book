@@ -1,20 +1,17 @@
-About the author
+Sobre los autores
 ----------------
 
-Vysakh Sreenivasan is a passionate developer.
+*Diego de Granda* es un desarrollador de software, ingeniero en sistemas y engineering manager en Platzi. Con más de 10 años de experiencia en el área, ha logrado desarrollar grandes proyectos y guíado a equipos de trabajo a hacer lo mismo.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute ((irure dolor)) in reprehenderit in
-voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+*Alejandro Santamaría* es un desarrollador de software y líder técnico con mucha experiencia tanto en start-ups, empresas tradicionales, consultorías e incluso gogierno.
 
-TIP: Foo bar is great!
+*Héctor Iván Patricio Moreno* ha liderado equipos técnicos desde hace 8 años, en una empresa dedicada a crear proyectos con base tecnológica de diversas índoles, adquiriendo experiencia en el camino a base de golpes.
 
-dfsdfsdf
+TIP: Esto es un tip
 
-WARNING: not zaz baz.
+Esto es otra prueba
 
+WARNING: Esto es un WARNING
+
+2=
 

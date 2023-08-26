@@ -1,5 +1,5 @@
-= eBook Template
-:author: Bruno Rocha
+= Liderazgo técnico desde los principios fundamentales
+:author: Diego de Granda, Alejandro Santamaría, Héctor Patricio
 :email: email@server.com
 :revnumber: 1.0
 :revdate: January 1st, 2021
@@ -9,6 +9,25 @@
 :data-uri:
 :lang: en
 :language: python
+
+// Diego (36 years old):
+// 1. Introduction
+// 2. Effective Communication
+// 3. Project Management
+// 4. Career Development and Mentorship
+
+// Hector (34 years old):
+// 5. Building and Leading High-Performing Teams
+// 6. Decision-Making and Problem-Solving
+// 7. Managing Change and Adaptability
+// 8. Continuous Improvement and Personal Growth
+
+// Alejandro (49 years old):
+// 9. Setting Goals and Prioritization
+// 10. Technical Leadership
+// 11. Managing Upwards and Stakeholder Relationships
+// 12. Conclusion
+
 
 [preface]
 include::chapters/about.adoc[]

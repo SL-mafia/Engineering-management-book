@@ -6,12 +6,3 @@ Sobre los autores
 *Alejandro Santamaría* es un desarrollador de software y líder técnico con mucha experiencia tanto en start-ups, empresas tradicionales, consultorías e incluso gogierno.
 
 *Héctor Iván Patricio Moreno* ha liderado equipos técnicos desde hace 8 años, en una empresa dedicada a crear proyectos con base tecnológica de diversas índoles, adquiriendo experiencia en el camino a base de golpes.
-
-TIP: Esto es un tip
-
-Esto es otra prueba
-
-WARNING: Esto es un WARNING
-
-2=
-

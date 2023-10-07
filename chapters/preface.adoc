@@ -1,6 +1,6 @@
 Prefacio
 -------
 
-El liderazgo técnico es un rol mítico en el sentido de que es tiene muchos mitos y malentendidos alrededor de él.
+El liderazgo técnico es un rol que se encuentra en la intersección de las capacidades técnicas.
 
 En este libro vamos a explorar el liderazgo técnico desde una perspectiva práctica, pero al mismo tiempo profunda, basada en la experiencia de los autores y de otros líderes técnicos.

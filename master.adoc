@@ -1,14 +1,15 @@
-= Liderazgo técnico desde los principios fundamentales
+= Principios de Liderazgo Técnico
+
 :author: Diego de Granda, Alejandro Santamaría, Héctor Patricio
-:email: email@server.com
-:revnumber: 1.0
-:revdate: January 1st, 2021
+:email: principios_de_liderazgo@gmail.com
+:revnumber: 0.5
+:revdate:  1 de Noviembre 2023
 :doctype: book
 :toc:
 :icons: font
 :data-uri:
-:lang: en
-:language: python
+:lang: es
+// :language: python
 
 // Diego (36 years old):
 // 1. Introduction

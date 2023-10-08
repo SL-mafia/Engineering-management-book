@@ -1,6 +1,6 @@
 Prefacio
 -------
 
-El liderazgo técnico es un rol que se encuentra en la intersección de las capacidades técnicas.
+El liderazgo técnico es un rol que se encuentra en la intersección de las capacidades técnicas, la gestión de equipos y la administración de proyectos. Pero no sólo es eso, sino que requiere que la persona que lo desempeña tenga una visión clara de lo que se quiere lograr desde el punto de vista del negocio.
 
 En este libro vamos a explorar el liderazgo técnico desde una perspectiva práctica, pero al mismo tiempo profunda, basada en la experiencia de los autores y de otros líderes técnicos.

@@ -57,4 +57,3 @@ ifdef::backend-docbook[]
 Index
 -----
 endif::backend-docbook[]
-

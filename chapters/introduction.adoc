@@ -1,6 +1,5 @@
 === Introducción
 
-ABC 
 (())
 
 [quote, John Smith, Memories]
